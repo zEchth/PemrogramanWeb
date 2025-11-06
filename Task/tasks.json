@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "description": "Belajar Node.js async/await",
+    "done": true
+  },
+  {
+    "description": "Belajar Node.js async/await yang kedua",
+    "done": false
+  },
+  {
+    "description": "Belajar Node.js async/await yang ketiga",
+    "done": false
+  }
+]
