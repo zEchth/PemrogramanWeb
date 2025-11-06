@@ -23,6 +23,7 @@ Hapus Task
 -> node index.js delete 2
 
 ### 📁 Struktur Folder
+'''
 TaskManagerCLI/
 │
 ├── README.md
@@ -31,7 +32,7 @@ TaskManagerCLI/
     ├── task.js          # Logika CRUD task
     ├── tasks.json       # File penyimpanan tugas
     └── package.json     # Informasi dan konfigurasi proyek Node.js
-
+'''
 
 ### ✨ Fitur
 - Menambahkan tugas baru
