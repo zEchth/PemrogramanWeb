@@ -1,6 +1,7 @@
 # Pemrograman Web
 ### aplikasi task manager berbasis file JSON yang berjalan di command-line
 
+```
 ### ⚙️ Setup
 1. Clone atau salin proyek ini ke komputer kamu.
    -> git clone <url-repo-kamu>
@@ -23,7 +24,6 @@ Hapus Task
 -> node index.js delete 2
 
 ### 📁 Struktur Folder
-'''
 TaskManagerCLI/
 │
 ├── README.md
@@ -32,7 +32,7 @@ TaskManagerCLI/
     ├── task.js          # Logika CRUD task
     ├── tasks.json       # File penyimpanan tugas
     └── package.json     # Informasi dan konfigurasi proyek Node.js
-'''
+
 
 ### ✨ Fitur
 - Menambahkan tugas baru
@@ -40,3 +40,5 @@ TaskManagerCLI/
 - Menandai tugas selesai
 - Menghapus tugas
 - Menyimpan data secara permanen di tasks.json
+
+```
